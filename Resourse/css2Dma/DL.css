@@ -1,0 +1,113 @@
+.card-title{
+	margin-top: 12px;
+}
+.btn_cnslt{
+width: 50%;
+margin-left: 100px;
+margin-top: 30px;
+margin-bottom: 20px;
+background-color: #00e9b2;
+
+}
+
+.navL
+{
+	margin-bottom: 10px; 
+}
+.btnL
+{
+	margin-left:500px;
+}
+
+html {
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a9aead), to(#c5cdcf));
+	background: -webkit-linear-gradient(top, #c5cdcf, #a9aead);
+	background: -moz-linear-gradient(top, #c5cdcf, #a9aead);
+	min-height: 100%; }
+
+  
+  .card-wrap {
+	text-align: center; }
+  
+  .card {
+	width: 400px;
+	height: 500px;
+	position: relative;
+	background: #fff;
+	overflow: visible;
+	margin: 20px;
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+	display: inline-block; }
+  
+  .set-image {
+	width: 100%;
+	height: 50%;
+	background: #eee;
+	overflow: hidden;
+	font: bold 20px Sans-Serif;
+	text-transform: uppercase;
+	/*! display: table; */ }
+  
+  .set-image p {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	line-height: 25px;
+	color: #d2d2d2; }
+  
+  .set-headline {
+	width: 65%;
+	height: 10%;
+	background: #eee;
+	margin: 20px; }
+  
+  .set-text {
+	width: 90%;
+	height: 12px;
+	background: #eee;
+	margin: 12px 20px; }
+  
+  .ribbon-wrapper-1 {
+	width: 106px;
+	height: 108px;
+	overflow: hidden;
+	position: absolute;
+	top: -6px;
+	right: -6px; }
+  
+  .ribbon-1 {
+	font: bold 15px Sans-Serif;
+	line-height: 18px;
+	color: #333;
+	text-align: center;
+	text-transform: uppercase;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	position: relative;
+	padding: 7px 0;
+	left: -11px;
+	top: 26px;
+	width: 150px;
+	background-color:  #464dee;
+	color: #fff;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	letter-spacing: 0.5px; }
+  
+  .ribbon-1:before, .ribbon-1:after {
+	content: "";
+	border-top: 4px solid #4e7c7d;
+	border-left: 4px solid transparent;
+	border-right: 4px solid transparent;
+	position: absolute;
+	bottom: -4px; }
+  
+  .ribbon-1:before {
+	left: 0; }
+  
+  .ribbon-1:after {
+	right: 0; }
+  
+  /*# sourceMappingURL=corner-ribbons.css.map */
+  

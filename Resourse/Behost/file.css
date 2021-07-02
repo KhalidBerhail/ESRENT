@@ -1,0 +1,79 @@
+
+/*file upload*/
+#preview-container {
+    margin: 50px auto;
+    width: 600px;
+}
+
+#upload-dialog {
+    padding: 5px;
+    border: 1px solid #336699;
+    background-color: white;
+    color: #336699;
+    background: none;
+    font-size: inherit;
+    font-family: inherit;
+    outline: none;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+#pdf-file {
+    display: none;
+}
+
+#pdf-loader {
+	display: none;
+	vertical-align: middle;
+	color: #cccccc;
+    font-size: 12px;
+}
+
+#pdf-preview {
+    display: none;
+    vertical-align: middle;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 2px;
+}
+
+#pdf-name {
+    display: none;
+    vertical-align: middle;
+    color: #336699;
+    margin: 0 15px;
+    max-width: 200px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#upload-button {
+    padding: 5px;
+    border: 1px solid #336699;
+    background-color: #336699;
+    color: white;
+    font-size: inherit;
+    font-family: inherit;
+    outline: none;
+    display: none;
+    vertical-align: middle;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+#cancel-pdf {
+    display: none;
+    vertical-align: middle;
+    padding: 0px;
+    border: none;
+    color: #777777;
+    background-color: white;
+    font-size: inherit;
+    font-family: inherit;
+    outline: none;
+    vertical-align: middle;
+    cursor: pointer;
+    margin: 0 0 0 15px;
+}

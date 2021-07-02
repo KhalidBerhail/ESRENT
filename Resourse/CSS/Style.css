@@ -1,0 +1,193 @@
+     @media all and (max-width:500px)
+     {
+
+     }
+
+    .hidden.menu {
+        display: none;
+      }
+      .masthead.segment {
+        min-height: 700px;
+        padding: 1em 0em;
+      }
+      .ui.large.secondary.pointing.inverted.menu{
+        border: none !important;
+       
+      }
+      
+      .masthead .logo.item img {
+        margin-right: 1em;
+      }
+      .masthead .ui.menu .ui.button {
+        margin-left: 0.5em;
+      }
+     /*imagine a company*/
+      .masthead h1.ui.header {
+        margin-top: 3em;
+        margin-bottom: 0em;
+        font-size: 4em;
+        font-weight: normal;
+      }
+      .masthead h2 {
+        font-size: 1.7em;
+        font-weight: normal;
+        color: black;
+      }
+  
+      .ui.vertical.stripe {
+        padding: 8em 0em;
+      }
+      .ui.vertical.stripe h3 {
+        font-size: 2em;
+      }
+      .ui.vertical.stripe .button + h3,
+      .ui.vertical.stripe p + h3 {
+        margin-top: 3em;
+      }
+      .ui.vertical.stripe .floated.image {
+        clear: both;
+      }
+      .ui.vertical.stripe p {
+        font-size: 1.33em;
+      }
+      .ui.vertical.stripe .horizontal.divider {
+        margin: 3em 0em;
+      }
+  
+      .quote.stripe.segment {
+        padding: 0em;
+      }
+      .quote.stripe.segment .grid .column {
+        padding-top: 5em;
+        padding-bottom: 5em;
+      }
+  
+      .footer.segment {
+        padding: 5em 0em;
+      }
+  
+      .secondary.pointing.menu .toc.item {
+        display: none;
+      }
+  
+      @media only screen and (max-width: 700px) {
+        .ui.fixed.menu {
+          display: none !important;
+        }
+        .secondary.pointing.menu .item,
+        .secondary.pointing.menu .menu {
+          display: none;
+        }
+        .secondary.pointing.menu .toc.item {
+          display: block;
+        }
+        .masthead.segment {
+          min-height: 350px;
+        }
+        .masthead h1.ui.header {
+          font-size: 2em;
+          margin-top: 1.5em;
+        }
+        .masthead h2 {
+          margin-top: 0.5em;
+          font-size: 1.5em;
+        }
+      }
+     
+
+
+      /*mycss*/
+      .ui.text.container{
+        margin-top: -180px; 
+       
+              }
+
+
+
+      .ui.card{
+       
+        margin-top: 70px;
+        width: 669px;
+        height: 70px;
+      }
+      .row.search{
+        
+        margin-top: 70px;
+       
+      }
+      .ui.fluid.icon.input{
+        width: 669px;
+        height: 70px;
+      }
+      .textSEP{
+        margin-top: 90px;
+        margin-left: 220px;
+        text-align: center;
+        font-family: "Ivar Headline","Times New Roman",serif;
+        max-width: 900px;
+        width: 100%;
+        color: #2A2A33;
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 42px;
+       
+      }
+      .ui.link.cards{
+        margin-left: 220px;
+        margin-top: 180px;
+        margin-bottom: 180px;
+      }
+      .ui.modal{
+        width: 500px;
+        height: 500px;
+      }
+      .ui.modal.inscription{
+        width: 500px;
+        height: 550px;
+      }
+      .ui.large.form{
+        margin-top: 90px;
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+      .ui.foloMenu{
+        margin-right: 50px;
+      }
+      .ui.medium.image{
+        margin-top: 20px;
+        margin-left: 170px;
+      }
+      .ui.large.form{
+        margin-top: 50px;
+      }
+      .SocialMCon{
+        margin-top: 20px;
+        margin-left: 30px;
+       
+      }
+      .ui.facebook.button{
+        width: 400px;
+        margin-left: 20px;
+      }
+      .ui.google.plus.button{
+        margin-top: 5px;
+        width: 400px;
+        margin-left: 20px;
+      }
+      
+      .masthead{
+        background-image: url(../images/back2.jpg) !important;
+        background-size: cover !important;
+      }
+   
+
+      .fas{
+                 margin-top: 25px;
+                 width: 50px;
+                 color:#464dee ;
+                 border: transparent;
+                 font-size: 18px;
+      }
+ 
+
+    
